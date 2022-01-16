@@ -35,6 +35,8 @@ One of the main advantages of refactoring is that it can lead to better quality 
 
 A disadvantage is that it can be time consuming, so it should only be done if time is available in the project budget.  Also, if the application is large, there is a lot more code to make sure still works together.
 
+(https://stackoverflow.com/questions/43983284/what-are-the-advantages-and-disadvantages-of-refactoring-code-smell-in-software)
+
 ### Advantages and Disadvantages of Refactored Project Code
 The original code used nested for loops and variables to loop through the stock tickers. The variables were easier to understand and work into the code. The disadvantage was that it looped through the tickers twice to accomplish its task. This makes the code take longer to run and would stress the system if used on very large datasets.
 
